@@ -1,46 +1,54 @@
 {
-  "name": "hm-loc-ominstru",
+  "id": "hm-loc-ominstru",
   "title": "Ominstru Manor",
   "description": "Ominstru is a remote struggling manor, saddled with debt and disrepair, plagued by bandits and secretly armed serfs, with a neglectful lord preoccupied with his hobbies.",
-  "version": "1.0.0",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.9",
+  "version": "1.1.0",
   "bugs": "https://github.com/toastygm/hm-loc-ominstru/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "authors": [
     {
       "name": "Tom Rodriguez",
-      "discord": "toasty#8538"
+      "discord": "toasty#8538",
+      "flags": {}
     }
   ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
   "scripts": [
-    "./scripts/init.js"
+    "scripts/init.js"
   ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+        "compatibility": {}
+      }
+    ]
+  },
   "packs": [
     {
-      "entity": "Scene",
-      "label": "Ominstru Manor - Scenes",
+      "label": "Ominstru Manor Scenes",
       "name": "scenes",
-      "path": "packs/scenes.db"
+      "path": "packs/scenes.db",
+      "type": "Scene",
+      "flags": {}
     },
     {
-      "entity": "JournalEntry",
-      "label": "Ominstru Manor - Journals",
+      "label": "Ominstru Manor Journals",
       "name": "journals",
-      "path": "packs/journals.db"
-    }
-  ],
-  "dependencies": [
-    {
-      "name": "scene-packer",
-      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-      "type": "module"
+      "path": "packs/journals.db",
+      "type": "JournalEntry",
+      "flags": {}
     }
   ],
   "url": "https://github.com/toastygm/hm-loc-ominstru/",
   "manifest": "https://github.com/toastygm/hm-loc-ominstru/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-ominstru/releases/latest/download/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-ominstru/releases/v1.1.0/download/module.zip",
   "flags": {
     "allowBugReporter": true
   }
