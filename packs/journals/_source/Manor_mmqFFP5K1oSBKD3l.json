@@ -1,0 +1,319 @@
+{
+  "name": "Manor",
+  "pages": [
+    {
+      "name": "[A1] Guard",
+      "type": "text",
+      "text": {
+        "content": "<p>One of the lord’s yeomen stands here guarding the gate during the day but the gate is closed at night.</p>",
+        "format": 1
+      },
+      "_id": "XCPbBKopFHHq8VLR",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mmqFFP5K1oSBKD3l.XCPbBKopFHHq8VLR"
+    },
+    {
+      "name": "[A2] Beldis' Overlook",
+      "type": "text",
+      "text": {
+        "content": "<p>Beldis (@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.rPDUgheGElvdBByf]{Beldis Banadar}) likes to stand here in the evenings and watch the sun disappear into the mountains.</p>",
+        "format": 1
+      },
+      "_id": "9QKeZ0yhddFJKd1E",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mmqFFP5K1oSBKD3l.9QKeZ0yhddFJKd1E"
+    },
+    {
+      "name": "[A] The Gatehouse",
+      "type": "text",
+      "text": {
+        "content": "<p> </p>",
+        "format": 1
+      },
+      "_id": "FEcIhuQtFqsfKBN1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mmqFFP5K1oSBKD3l.FEcIhuQtFqsfKBN1"
+    },
+    {
+      "name": "[B1] Storeroom and Armory",
+      "type": "text",
+      "text": {
+        "content": "<p>The southern end of long, dark room is where Sir Falstran keeps the manor’s daily necessities and household mead that is aging. The other end holds the militia’s weapons and salted rations. Lady Erlyna has the cook use the salted rations to cut costs.</p>",
+        "format": 1
+      },
+      "_id": "9vmAMLGPKLSphvBJ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mmqFFP5K1oSBKD3l.9vmAMLGPKLSphvBJ"
+    },
+    {
+      "name": "[B2] The Great Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>During the day, this room is a lively place, full of sounds and smells of life. Sir Falstran’s family and personal staff sleep and eat here. Lady Lorlyn and Sir Taerq sleep near the dais. Beldis, the squire, makes do near the hearth.</p>",
+        "format": 1
+      },
+      "_id": "qS5fv0YrUVD3I421",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mmqFFP5K1oSBKD3l.qS5fv0YrUVD3I421"
+    },
+    {
+      "name": "[B3] The Lord’s Chamber",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Falstran and his wife sleep in this room.</p>",
+        "format": 1
+      },
+      "_id": "Pwe2tP6Nt0NNMxUt",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mmqFFP5K1oSBKD3l.Pwe2tP6Nt0NNMxUt"
+    },
+    {
+      "name": "[B] The Manor House",
+      "type": "text",
+      "text": {
+        "content": "<p> </p>",
+        "format": 1
+      },
+      "_id": "4bWQ1uPio2suE3LR",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mmqFFP5K1oSBKD3l.4bWQ1uPio2suE3LR"
+    },
+    {
+      "name": "[C] The Brewery",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Falstran spends many hours supervising Haes Loyril as they produce his mead. Haes makes a bragot from the lesser quality honey and malt. This sweet ale is popular and Sir Falstran often gives away kegs as presents. The real prizes are the dry meads that age in oak barrels (@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.9vmAMLGPKLSphvBJ]{[B1] Storeroom and Armory}). Made from the best clover honey and local herbs, the brews are left to mature for years. Some of these hogsheads are worth over a 1,000d each.</p>",
+        "format": 1
+      },
+      "_id": "bUqi9IVAQYnNCaxs",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mmqFFP5K1oSBKD3l.bUqi9IVAQYnNCaxs"
+    },
+    {
+      "name": "[D] The Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>The kitchen staff sleeps here, leaving the Great Hall to the family. In addition to cooking and cleaning, Sorgin is responsible for the ducks and chickens that live in the kitchen yard.</p>",
+        "format": 1
+      },
+      "_id": "ltWaDefj2EmvTGvj",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mmqFFP5K1oSBKD3l.ltWaDefj2EmvTGvj"
+    },
+    {
+      "name": "[E] The Stable",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Falstran’s warhorse is here but has been rarely exercised since the beast bit Sir Taerq. The family keeps four hunters and two palfreys. The horses have seen so little use that Lady Erlyna is trying to sell two of the hunters to cut the manor house’s cost and pay some of the bills.</p>",
+        "format": 1
+      },
+      "_id": "A3Dw6TmY882bt8KW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mmqFFP5K1oSBKD3l.A3Dw6TmY882bt8KW"
+    },
+    {
+      "name": "[F] The Smithy",
+      "type": "text",
+      "text": {
+        "content": "<p>Ravin Sermel is the manor’s only bonded craftsman and the work for the villagers keeps him busy. He makes household tools and traps for the hideworker but his specialty is pots and pans. He is the Hundred’s best tinker and supplies Varybis with items made to order.</p>",
+        "format": 1
+      },
+      "_id": "cWvRUhpwaq2Vg1kr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!mmqFFP5K1oSBKD3l.cWvRUhpwaq2Vg1kr"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206000620,
+    "modifiedTime": 1659206000620,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "mmqFFP5K1oSBKD3l",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!mmqFFP5K1oSBKD3l"
+}

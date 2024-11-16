@@ -1,0 +1,187 @@
+{
+  "name": "Ominstru",
+  "pages": [
+    {
+      "name": "Adventure Seeds",
+      "type": "text",
+      "text": {
+        "content": "<h2>Save my Shipment</h2>\n<p>Varybis Haral is the Hundred’s peddler. He has been having some problems during the last two months. While traveling between manors, he has been stopped and his cart ransacked by a group of masked bandits on three separate occasions. He offers the PCs 10d if they guard the next shipment, with a further 20d if the shipment makes it through. It is well known that Varybis takes special orders and often carries expensive goods in his cart. He has a special order of some luxury item to collect from Sir Falstran Haunty and is worried that the bandits will try to take the item away. Sir Falstran has detailed one of his squires to scout the area but nothing was found.</p>\n<p>In fact, the Sir Taerq and two of the local villagers are responsible for the highway robberies. Sir Taerq has taken a dislike to Varybis for some slight and is enjoying the feeling of revenge and the use of the peddler’s goods.</p>\n<p>If the PCs refuse the request, the shipment will be stolen and Varybis will end up walking back to Getha without his clothes. His very low opinion of the PCs will make it difficult for them to purchase goods from him or his clan in future.</p>\n<p>If the PCs accept, they will be paid their 10d and will start the next morning. The cart will be attacked as it crosses the road between Emerule and Drilen. The bandits are wearing hoods and masks and carrying spears and bows. Not expecting the PCs, the bandits will flee once one of them has been wounded. The PCs will accompany the delivery and receive their 20d.</p>\n<p>If the PCs report the attempted robbery to Sir Falstran, a careful PC will notice that Sir Taerq or one of the villagers have wounds matching those delivered to the bandits. The lord will ignore any accusations and PCs will become unwelcome should they press their case too vigorously.</p>\n<h2>Plot Hooks</h2>\n<p>Yeomen (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.oXfnvdhn5F90RyKW]{[1] Yeoman Hrogun Urdel}) feel slighted and are shirking their duties.</p>\n<p>Young girls (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.5ZeT23yAA4qtxn1V]{[4] Cottar Cherin Faleren} and @UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.1pE9uweWREBNpKCN]{[9] Cottar Habar Asaka}) have disappeared in the forest.</p>\n<p>Scholar (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.646QlDV5xdoMQ4oG]{[10] Scholar Loran the Southron}) pays people to find things for him in the forest. He pretends to be an eccentric nobleman but this is only half true.</p>\n<p>Arsarls (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.iu6jgJJTrU63N7V7]{[14] Half-Villein (Reeve) Synë Arsarl}) have started a secret militia and are smuggling weapons from Hyzevel. The Reeve is paying for these weapons by skimming manor revenues.</p>\n<p>A serial killer (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.BVl9a17Z0LXgXYfQ]{[15] Cottar Udar Panda}) has been strangling young people in the woods.</p>\n<p>Poachers (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.D2kN0V9iaZ3LfFsm]{[18] Cottar Soryn Nelt} and @UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.tjmBHgJeTNPHTl6Q]{[21] Half-Villein Tarast Nelt}) turned highwaymen, they work for the heir to the manor, Sir Taerq (@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.QZ8wYT1QxiDZ6x1q]{Sir Taerq Haunty}).</p>\n<p>Teamster (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.dyZ1hn0W0jVnPuPt]{[20] Cottar Bathil Loyril}) is looking for protection.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "bZEVwTkki7GAQiJd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AdouKOtgxOUvNCBR.bZEVwTkki7GAQiJd"
+    },
+    {
+      "name": "Clan Haunty",
+      "type": "text",
+      "text": {
+        "content": "<p>The Haunty clan is a picture of a fading noble family. They were once known for their skill at arms, especially the use of a battleaxe in the shield burgh. The family gained Ominstru through marriage after the Baronial Revolt. Though once doughty warriors, they have been poor stewards and the manor has declined over the years. They were never renowned for their inventiveness but action has given way to dissipation and the last three lords of Ominstru have been gambling drunkards and common gluttons.</p>\n<p>Sir Falstran is the latest of this failing line. He is perhaps the last lord, but that remains to be seen. He, like his father before him, is a fool and a better trencherman than knight. He is blissfully content to tinker with his brews or debate the quality of various honeys while the forest reclaims his fields. He is heavily indebted to the moneylender of Getha and his wife has difficulty maintaining their lifestyle.</p>\n<p>Most everyone in the Hundred calls young Sir Taerq “the Terrible.” The heir to the manor, he is a bully and a thug. At 20, he is widely avoided by peasant and noble alike. He favors flogging those that vex him and carries a quirt at all times for that purpose.</p>\n<p>Hanis is eighteen and a squire in Drilen. Not suited for a vigorous life of a mercenary or paladin, he is bound for a herald's life. Hanis is his mother's favorite.</p>\n<p>Pers has just passed his sixteenth birthday. He is lucky enough to be squired in the Baron's household but has no ambition to become a landless knight bachelor. He is a timid young man, better suited for the Shattered Spear of Sorrow than the Lady of Paladins.</p>",
+        "format": 1
+      },
+      "_id": "h2yOH4FU2v0Hegqe",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -12500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AdouKOtgxOUvNCBR.h2yOH4FU2v0Hegqe"
+    },
+    {
+      "name": "Credits",
+      "type": "text",
+      "text": {
+        "content": "<p>This module is made possible by the hard work of HârnWorld fans, and is provided at no cost. This work is an adaptation of the article for Ominstru Manor described in <a href=\"https://www.lythia.com/fethael-hundred/manors.html\">Fethael Hundred Manors</a> available at the HârnWorld fan site <a href=\"https://www.lythia.com/\">Lythia.com</a>.</p>\n<p><strong>Writer:</strong> Joe Adams<br /><strong>Original Maps:</strong> George Kelln<br /><strong>Heraldry:</strong> Matthias Janssen<br /><strong>Contributors:</strong> Robert Barfield and Allan Prewett<br /><strong>Adapted to Foundry VTT:</strong> Tom Rodriguez</p>\n<p>Some assets used to create the maps in this module are from <a href=\"https://forgotten-adventures.net/\">Forgotten Adventures</a>.</p>\n<p>This module is \"<a href=\"https://www.lythia.com/about/publishing-fan-written-material/\">Fanon</a>\", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
+        "format": 1
+      },
+      "_id": "RNgQeLLy2oyPOswu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -50000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AdouKOtgxOUvNCBR.RNgQeLLy2oyPOswu"
+    },
+    {
+      "name": "Settlement Data",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Lord:</strong> Sir Falstran Haunty</p>\n<p>Owes Fealty to: Sir Eadwin Lournay (Drilen)</p>\n<p><strong>Acres: 1,080</strong></p>\n<p><strong>LQ:</strong> 1.10</p>\n<p><strong>Market Day</strong> – Villagers take goods to Drilen on sixth-day every ten-day</p>\n<p><strong>Imports:</strong></p>\n<ul>\n<li>Wood (casks, lumber)</li>\n<li>Copper, Iron, Tin</li>\n<li>Salt</li>\n</ul>\n<p><strong>Exports:</strong></p>\n<ul>\n<li>Charcoal</li>\n<li>Fur &amp; leather</li>\n<li>Truffles &amp; potted meat</li>\n<li>Wax &amp; Honey</li>\n<li>Cheese (gistina, rella, ristina)</li>\n<li>Mead</li>\n</ul>\n<table style=\"width:18em\" border=\"1\">\n<thead>\n<tr>\n<th style=\"width:4em\">H/H (pop)</th>\n<th style=\"width:4em\">UF</th>\n<th style=\"width:4em\">RF</th>\n<th style=\"width:4em\">SF</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>23 (115)</td>\n<td>3</td>\n<td>20</td>\n</tr>\n</tbody>\n</table>\n<table style=\"width:18em\" border=\"1\">\n<thead>\n<tr>\n<th style=\"width:4em\">Muster</th>\n<th style=\"width:4em\">Kts</th>\n<th style=\"width:4em\">Yeo</th>\n<th style=\"width:4em\">Men</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td> </td>\n<td>1</td>\n<td>2</td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<table style=\"width:18em\" border=\"1\">\n<thead>\n<tr>\n<th style=\"width:8em\">Business</th>\n<th style=\"width:10em\">Clan/location</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Hide-worker</td>\n<td>Astal [24]</td>\n</tr>\n<tr>\n<td>Metalsmith</td>\n<td>Sermel* [F]</td>\n</tr>\n<tr>\n<td>Salters</td>\n<td>Andin [12]</td>\n</tr>\n<tr>\n<td>Teamster</td>\n<td>Loyril [20]</td>\n</tr>\n</tbody>\n</table>\n<p>(* = bonded)</p>\n<h3>General Feel</h3>\n<p>A manor that is struggling to make ends meet.</p>\n<p>A lord, preoccupied with his hobbies, has allowed his manor to sink into debt and disrepair. His wife and his mother in law are trying to make the once profitable manor successful once again.</p>\n<p>The peasants feel abandoned by their lord and, rather than rebel against a fool, are looking at other ways to defend their lives and property.</p>",
+        "format": 1
+      },
+      "_id": "X86gJcAAIaKIg3Jf",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -25000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AdouKOtgxOUvNCBR.X86gJcAAIaKIg3Jf"
+    },
+    {
+      "name": "Settlement Overview",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Location:</strong> Fethael Hundred, Kaldor<br /><strong>Status:</strong> Manor<br /><strong>Government:</strong> Sir Falstran Haunty<br /><strong>Liege:</strong> Sir Eadwin Lournay (Drilen)<br /><strong>Population:</strong> Village 115; Manor 12</p>\n<p>Ominstru is unremarkable except that the village common anchors the end of the track from Emerule. This manor farms and raises cattle, as is typical of the western part of the Hundred. An old settlement, there are only two clans of peasants in this manor. A visitor might find the inhabitants of Ominstru quiet, even furtive.</p>\n<h2>History</h2>\n<p>A young nobleman of clan Rynsel returning from the Migration Wars founded Ominstru. As the years passed and the clan’s bloodline thinned, the lordship passed to the Haunty clan by marriage. The manor’s out of the way location has spared it the ravages of war and strife. Enemy armies marched and pillaged their way along the Silver Way, but few forces could be bothered to send raiders into the dark forest to the end of the small track.</p>\n<h2>Government</h2>\n<p>Sir Falstran Haunty is Lord of Ominstru Manor and a vassal of clan Lournay. Sir Falstran is a rotund man who weighs over 300 lbs., as much as a cask of his favorite mead. Since the lord is obsessed with mead brewing, his wife, Lady Erlyna, and her mother, Lady Lorlyn, rule the manor except for the Hall Moot.</p>\n<h2>Economics</h2>\n<p>Like the other villages in the western part of Fethael Hundred, Ominstru raises cattle instead of sheep. The brushy woodland that surrounds the manor spoils any hope of producing wool, so the farmers concentrate on raising cattle for milk, butter, cheese, and beef. In good years, the village exports its smoked cheeses and meats to Getha in time for the Fair.</p>\n<p>Bees and furs from the slopes of Omin Mountain are the manor’s real source of income. Maunat (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.cAE5qSEXiYHpNxuv]{[5] Cottar (woodward) Maunat Faleren}) has carefully distributed his hives around the pastures north of the village. Sir Falstran prizes the clover honey that is gathered, claiming it makes superior mead. The wax from the hives is pressed into brick-sized cakes before being sold to the chandlers of Getha and Jenkald.</p>\n<p>Katrin the hideworker (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.9QojhaeQwM2LCqd0]{[24] Hideworker Katrin Astal}) sends two large shipments of tanned hides to the ostlers and hideworkers in Getha for use in saddles and armor each year. Rich pelts of sable and bear are sent to the clothiers at midsummer.</p>\n<p>Sir Falstran’s love of mead consumes the manor’s privy purse and has sent him deep into debt. His collection of aged meads is worth tens of pounds to any discriminating collector in Tashal, Burzyn, or Cherafir. His emphasis on brewing has been at the expense of other activities, specifically the assart. The fields west of the village have become less and less productive as the forest reclaims those fields.</p>\n<h2>Religion</h2>\n<p>The religious climate of Ominstru is similar to the rest of Kaldor, where worship of the “Dark Gods” is punishable by death and other religions are viewed with suspicion. The lord and his family attend Laranian services at the abbey in Lethyl or the Chapter House in Hakstyn, rather than endure the company of the Kobarneys of Hyzevel. The ride to the abbey is long, so Sir Falstran and his family generally stay the night before returning home. An Ebsathe visits from Hyzevel and holds Peonian rites in the common.</p>\n<h2>Current Events</h2>\n<p>The manor’s location at the end of the road has been both a blessing and a curse. Although their remote location has spared them from wars, predatory bandits are as common as wolves in winter. A group of bandits has been raiding the village’s stores from the forest to the west and south. They are usually content to steal food and drive off a few head of livestock but their most recent raids have targeted the village’s craftsmen. Within the past few months, the salter’s warehouse has been broken into during the night. Lady Erlyna is worried that the craftsmen may default on their taxes if they lose their goods.</p>\n<p>With Sir Falstran’s attention in the brew house, six members of the Arsarl clan have formed a vigilante militia to protect their fields and animals. The existence of such a group of armed and organized peasants is against the law but the reeve and the beadle see no alternatives.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "D9gAfb3bLQV3RuFs",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -37500,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AdouKOtgxOUvNCBR.D9gAfb3bLQV3RuFs"
+    },
+    {
+      "name": "Overview",
+      "type": "text",
+      "text": {
+        "content": "<p>Ominstru is a \"Location Module\"; it is designed to depict the Ominstru manor and village located in Fethael Hundred, Nephshire, kingdom of Kaldor, on the island of Hârn in the <a href=\"https://columbiagames.com/harnworld/\">HârnWorld fantasy setting</a>; however, this manor and village could be adapted to exist anywhere in any fantasy setting.</p>\n<p>This module is based on the Ominstru manor article from \"<a href=\"https://www.lythia.com/fethael-hundred/manors.html\">Fethael Hundred Manors</a>\" fanon; please see @UUID[JournalEntry.AdouKOtgxOUvNCBR.JournalEntryPage.RNgQeLLy2oyPOswu]{Credits} for more information.</p>\n<p>This module details all of the households, including interior plans of the manor.&lt;/p</p>\n<p> </p>\n<h2>Using this module with Non-HârnMaster systems</h2>\n<p>This entire module is system-agnostic.  See the section below on NPCs for details about the residents; these details may be used to generate appropriate statistics for your game system.</p>\n<p> </p>\n<h2>Using the Scenes</h2>\n<p>A number of scenes are provided representing maps. These scenes depict both internal and external areas; internal areas are generally set at a 5-foot grid spacing, while exterior areas use much larger scaling. The following subsections describe some common elements of these scenes.</p>\n<h3>Map Notes</h3>\n<p>The scenes make extensive use of Map Notes to provide detailed description of important areas in the scenes. To view these map notes, click on the \"bookmark icon\" in the canvas toolbar. Map notes are not visible to players, only to the GM.</p>\n<h3>Text and Markings</h3>\n<p>In various areas text and or markings have been provided in the scenes to assist the GM. Generally this information is set to only be visible to the GM.</p>\n<h3>Stairs</h3>\n<p>Some stairs may have an arrow indicating the direction the stairs descend. When present these arrows are visible to all players.</p>\n<h3>Lighting</h3>\n<p>To control ambient lighting, use the \"darkness\" setting for the scene.</p>\n<p>All scenes have been setup with Unrestricted Vision Range enabled, with a Vision Limitation Threshold set to 0.7. This allows all areas of the scene to be lit during the day, but vision is limited and lights are required at night.</p>\n<p>Internal lamps and candle lights have been placed in indoor areas. These lights have been set to enable when the \"darkness\" setting is ≥ 0.2, that is, just after things start becoming dim.</p>\n<p>Hârn has a cool climate, so all fireplaces and braziers are constantly lit.</p>\n<p> </p>\n<h2>Recommended Modules</h2>\n<p>The following modules, although not required, are highly recommended to enhance this module:</p>\n<p><strong>Compendium Folders:</strong> Due to the large number of journal entries in this module, these journal entries have been organized into sub-folders using Compendium Folders. If Compendium Folders is not used, these will all show up as a single long list of Journal Entries in the compendium. As long as you follow the links starting with the Overview journal entry, it should not be necessary to navigate the compendium, but if you want to navigate through the Journal Entries yourself, having Compendium Folders will greately simplify this task.</p>\n<p><strong>Backgroundless Pins:</strong> The map note icons all have a dark grey background; with this module, that background disappears. This may increase your enjoyment of the maps.</p>\n<p> </p>\n<h2>Background Information</h2>\n<p>For historical, political, and recent events, see @UUID[JournalEntry.AdouKOtgxOUvNCBR.JournalEntryPage.D9gAfb3bLQV3RuFs]{Settlement Overview}.</p>\n<p>For statistical information about the manor, see @UUID[JournalEntry.AdouKOtgxOUvNCBR.JournalEntryPage.X86gJcAAIaKIg3Jf]{Settlement Data}.</p>\n<p>For information on the ruling clan, see @UUID[JournalEntry.AdouKOtgxOUvNCBR.JournalEntryPage.h2yOH4FU2v0Hegqe]{Clan Haunty}.</p>\n<p>For additional adventure ideas, see @UUID[JournalEntry.AdouKOtgxOUvNCBR.JournalEntryPage.bZEVwTkki7GAQiJd]{Adventure Seeds}.</p>\n<p> </p>\n<h2>The Village</h2>\n<p>The houses in the village are single story and consist of two main areas. The family uses one part of the house as a living area, which includes space for cooking and eating. The other side is a byre for the animals. Mud and stick chimneys provide for heating and cooking. Interior walls, if any, are the same wattle and daub as the exterior.</p>\n<p>The following locations are all depicted in the Ominstru Village scene.</p>\n<ul>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.oXfnvdhn5F90RyKW]{[1] Yeoman Hrogun Urdel}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.ZwiwrHh5YV3OSP1v]{[2] Villein Margaen Astal}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.Zfar6Y2cPlqFqWo7]{[3] Half-Villein Lirana Panda}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.5ZeT23yAA4qtxn1V]{[4] Cottar Cherin Faleren}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.cAE5qSEXiYHpNxuv]{[5] Cottar (woodward) Maunat Faleren}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.AHfsjWHHEJUl1rIA]{[6] Cottar (Herder) Shorka Faleren}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.BkjA2WzBD00pxKsI]{[7] Villein Vakkel Arsarl}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.eGsjDYjml9fpyG3V]{[8] Villein Roran Arsarl}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.1pE9uweWREBNpKCN]{[9] Cottar Habar Asaka}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.646QlDV5xdoMQ4oG]{[10] Scholar Loran the Southron}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.a4T0zLPcqfF6ew2J]{[11] Villein Thirsen Arsarl}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.c3ooAbsJ16Az77nc]{[12] Salter Ketta Andin}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.Pz2dWMUGB7lN3fCc]{[13] Half-Villein (Beadle) Kan Arsarl}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.iu6jgJJTrU63N7V7]{[14] Half-Villein (Reeve) Synë Arsarl}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.BVl9a17Z0LXgXYfQ]{[15] Cottar Udar Panda}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.XqkkaiD5lF9A0ARQ]{[16] Half-Villein Torn Tolonan}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.7Z94827YqCj0QFc6]{[17] Half-Villein Zorna Arsarl}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.D2kN0V9iaZ3LfFsm]{[18] Cottar Soryn Nelt}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.ejiBmiqw9NLcdUuu]{[19] Cottar Ardin Loyril}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.dyZ1hn0W0jVnPuPt]{[20] Cottar Bathil Loyril}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.tjmBHgJeTNPHTl6Q]{[21] Half-Villein Tarast Nelt}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.wN54VGKWpcFxxLRk]{[22] Cottar Aldlë Arsarl}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.19bo6UOuMAdapD2M]{[23] Half-Villein Darbain Nelt}</li>\n<li>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.9QojhaeQwM2LCqd0]{[24] Hideworker Katrin Astal}</li>\n</ul>\n<p> </p>\n<h2>Manor Residents</h2>\n<ul>\n<li>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.ie8cEsJJ4DPweL0L]{Sir Falstran Haunty}, Lord of the Manor</li>\n<li>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.sDWlo3fGLjhDWu0x]{Lady Erlyna Haunty}, Lady of the Manor</li>\n<li>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.QZ8wYT1QxiDZ6x1q]{Sir Taerq Haunty}, Heir</li>\n<li>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.rPDUgheGElvdBByf]{Beldis Banadar}, Sir Falstran's Squire</li>\n<li>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.RlNO6DIvNbXbbImH]{Lady Lorlyn Sarebor}, Lady Erlyna's mother</li>\n<li>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.ceAyg3s15pZxay0o]{Sorgin Ashtal}, Cook</li>\n<li>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.vIzCSFeyCciZjqCX]{Haes Loyril}, Alewife</li>\n<li>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.YIDhwilfvAMjEvXf]{Varancë Arsarl}, Housekeeper</li>\n<li>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.mXjifssAmxQKe6Gs]{Saril Panda}, domestic</li>\n<li>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.Pnxa1YP9C4i0iwil]{Naben Dyren}, domestic</li>\n</ul>\n<p> </p>\n<h2>Manor House</h2>\n<p>The manor house has not changed much over the years but the signs of decay are there for those that are observant. The rampart is eroding into the dry moat. Clusters of weeds sprout up in the courtyard and most of the roofs leak. Most significantly, the manor house's walls are weakened and in need of a mason's service.</p>\n<ul>\n<li>@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.FEcIhuQtFqsfKBN1]{[A] The Gatehouse}\n<ul>\n<li>@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.XCPbBKopFHHq8VLR]{[A1] Guard}</li>\n<li>@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.9QKeZ0yhddFJKd1E]{[A2] Beldis' Overlook}</li>\n</ul>\n</li>\n<li>@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.4bWQ1uPio2suE3LR]{[B] The Manor House}\n<ul>\n<li>@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.9vmAMLGPKLSphvBJ]{[B1] Storeroom and Armory}</li>\n<li>@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.qS5fv0YrUVD3I421]{[B2] The Great Hall}</li>\n<li>@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.Pwe2tP6Nt0NNMxUt]{[B3] The Lord’s Chamber}</li>\n</ul>\n</li>\n<li>@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.bUqi9IVAQYnNCaxs]{[C] The Brewery}</li>\n<li>@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.ltWaDefj2EmvTGvj]{[D] The Kitchen}</li>\n<li>@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.A3Dw6TmY882bt8KW]{[E] The Stable}</li>\n<li>@UUID[JournalEntry.mmqFFP5K1oSBKD3l.JournalEntryPage.cWvRUhpwaq2Vg1kr]{[F] The Smithy}</li>\n</ul>\n<p> </p>\n<h2>Schedule of Events</h2>\n<p>Hall moot held on the second Second Day (day 12) of each month. While Sir Falstran may begin the proceedings, Lady Erlyna makes sure that all of the business is concluded properly.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<th style=\"width:10em\">...Tenday...</th>\n<th style=\"width:10em\">Sir Falstran (Ominstru)</th>\n<th style=\"width:10em\">Events</th>\n</tr>\n<tr>\n<td>Nuzyael 1</td>\n<td>Ominstru</td>\n<td> </td>\n</tr>\n<tr>\n<td>Nuzyael 2</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Nuzyael 3</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Peonu 1</td>\n<td>Lethyl</td>\n<td>(3)</td>\n</tr>\n<tr>\n<td>Peonu 2</td>\n<td>Ominstru</td>\n<td> </td>\n</tr>\n<tr>\n<td>Peonu 3</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Kelen 1</td>\n<td> </td>\n<td>Wool Fair</td>\n</tr>\n<tr>\n<td>Kelen 2</td>\n<td>Getha</td>\n<td>Getha Fair</td>\n</tr>\n<tr>\n<td>Kelen 3</td>\n<td>Ominstru</td>\n<td> </td>\n</tr>\n<tr>\n<td>Nolus 1</td>\n<td>Tashal</td>\n<td>Tashal Fair</td>\n</tr>\n<tr>\n<td>Nolus 2</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Nolus 3</td>\n<td>Ominstru</td>\n<td> </td>\n</tr>\n<tr>\n<td>Larane 1</td>\n<td> </td>\n<td>Chelebin Tourney</td>\n</tr>\n<tr>\n<td>Larane 2</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Larane 3</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Agrazhar 1</td>\n<td>Jenkald</td>\n<td>(2)</td>\n</tr>\n<tr>\n<td>Agrazhar 2</td>\n<td>Ominstru</td>\n<td> </td>\n</tr>\n<tr>\n<td>Agrazhar 3</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Azura 1</td>\n<td> </td>\n<td>Kiban Fair</td>\n</tr>\n<tr>\n<td>Azura 2</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Azura 3</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Halane 1</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Halane 2</td>\n<td>Ominstru</td>\n<td> </td>\n</tr>\n<tr>\n<td>Halane 3</td>\n<td>Getha</td>\n<td>(4)</td>\n</tr>\n<tr>\n<td>Savor 1</td>\n<td>Lethyl</td>\n<td>(3)</td>\n</tr>\n<tr>\n<td>Savor 2</td>\n<td> </td>\n<td>(1)</td>\n</tr>\n<tr>\n<td>Savor 3</td>\n<td>Ominstru</td>\n<td> </td>\n</tr>\n<tr>\n<td>Ilvin 1</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Ilvin 2</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Ilvin 3</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Navek 1</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Navek 2</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Navek 3</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Morgat 1</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Morgat 2</td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Morgat 3</td>\n<td> </td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>(1) The Indama annual boar hunt is hosted at Emerule, small manor in the western part of the Fethael hundred. Some politics. Lots of hunting.</p>\n<p>(2) As part of his progress around the kingdom, the Serekela attends the mass of St. Orthas’ Day at Getha or perhaps (even better) Jenkald.</p>\n<p>(3) All of the Indamas come to Lethyl to celebrate St. Valamin’s Day and St. Syrele’s Feast. St. Syrele’s is considered the start of the family’s annual hunt.</p>\n<p>(4) The annual tax recording is done during the end of Halane/beginning of Savor. Sir Falstran goes to Drilen to meet with Sir Eadwin before accompanying him to Getha to meet with the Baron.</p>\n<p> </p>\n<h2>NPCs</h2>\n<table border=\"1\">\n<tbody>\n<tr>\n<th style=\"width:4em\">Loc</th>\n<th style=\"width:15em\">Name</th>\n<th style=\"width:15em\">Occupation</th>\n<th>Journal</th>\n</tr>\n<tr>\n<td>22</td>\n<td>Aldlë Arsarl</td>\n<td>Cottar</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.wN54VGKWpcFxxLRk]{[22] Cottar Aldlë Arsarl}</td>\n</tr>\n<tr>\n<td>19</td>\n<td>Ardin Loyril</td>\n<td>Cottar</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.ejiBmiqw9NLcdUuu]{[19] Cottar Ardin Loyril}</td>\n</tr>\n<tr>\n<td>20</td>\n<td>Bathil Loyril</td>\n<td>Cottar</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.dyZ1hn0W0jVnPuPt]{[20] Cottar Bathil Loyril}</td>\n</tr>\n<tr>\n<td>Manor</td>\n<td>Beldis Banadar</td>\n<td>Squire</td>\n<td>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.rPDUgheGElvdBByf]{Beldis Banadar}</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Cherin Faleren</td>\n<td>Cottar</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.5ZeT23yAA4qtxn1V]{[4] Cottar Cherin Faleren}</td>\n</tr>\n<tr>\n<td>23</td>\n<td>Darbain Nelt</td>\n<td>Half-Villein</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.19bo6UOuMAdapD2M]{[23] Half-Villein Darbain Nelt}</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Habar Asaka</td>\n<td>Cottar</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.1pE9uweWREBNpKCN]{[9] Cottar Habar Asaka}</td>\n</tr>\n<tr>\n<td>Manor</td>\n<td>Haes Loyril</td>\n<td>Alewife</td>\n<td>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.vIzCSFeyCciZjqCX]{Haes Loyril}</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Hrogun Urdel</td>\n<td>Yeoman</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.oXfnvdhn5F90RyKW]{[1] Yeoman Hrogun Urdel}</td>\n</tr>\n<tr>\n<td>13</td>\n<td>Kan Arsarl</td>\n<td>Half-Villein (Beadle)</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.Pz2dWMUGB7lN3fCc]{[13] Half-Villein (Beadle) Kan Arsarl}</td>\n</tr>\n<tr>\n<td>24</td>\n<td>Katrin Astal</td>\n<td>Hideworker</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.9QojhaeQwM2LCqd0]{[24] Hideworker Katrin Astal}</td>\n</tr>\n<tr>\n<td>12</td>\n<td>Ketta Andin</td>\n<td>Salter</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.c3ooAbsJ16Az77nc]{[12] Salter Ketta Andin}</td>\n</tr>\n<tr>\n<td>Manor</td>\n<td>Lady Erlyna Haunty</td>\n<td>Lady of the Manor</td>\n<td>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.sDWlo3fGLjhDWu0x]{Lady Erlyna Haunty}</td>\n</tr>\n<tr>\n<td>Manor</td>\n<td>Lady Lorlyn Sarebor</td>\n<td>Lady Erlyna's Mother</td>\n<td>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.RlNO6DIvNbXbbImH]{Lady Lorlyn Sarebor}</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Lirana Panda</td>\n<td>Half-Villein</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.Zfar6Y2cPlqFqWo7]{[3] Half-Villein Lirana Panda}</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Loran the Southron</td>\n<td>Scholar</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.646QlDV5xdoMQ4oG]{[10] Scholar Loran the Southron}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Margaen Astal</td>\n<td>Villein</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.ZwiwrHh5YV3OSP1v]{[2] Villein Margaen Astal}</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Maunat Faleren</td>\n<td>Cottar (woodward)</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.cAE5qSEXiYHpNxuv]{[5] Cottar (woodward) Maunat Faleren}</td>\n</tr>\n<tr>\n<td>Manor</td>\n<td>Naben Dyren</td>\n<td>Domestic</td>\n<td>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.Pnxa1YP9C4i0iwil]{Naben Dyren}</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Roran Arsarl</td>\n<td>Villein</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.eGsjDYjml9fpyG3V]{[8] Villein Roran Arsarl}</td>\n</tr>\n<tr>\n<td>Manor</td>\n<td>Saril Panda</td>\n<td>Domestic</td>\n<td>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.mXjifssAmxQKe6Gs]{Saril Panda}</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Shorka Faleren</td>\n<td>Cottar (Herder)</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.AHfsjWHHEJUl1rIA]{[6] Cottar (Herder) Shorka Faleren}</td>\n</tr>\n<tr>\n<td>Manor</td>\n<td>Sir Falstran Haunty</td>\n<td>Lord of the Manor</td>\n<td>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.ie8cEsJJ4DPweL0L]{Sir Falstran Haunty}</td>\n</tr>\n<tr>\n<td>Manor</td>\n<td>Sir Taerq Haunty</td>\n<td>Heir</td>\n<td>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.QZ8wYT1QxiDZ6x1q]{Sir Taerq Haunty}</td>\n</tr>\n<tr>\n<td>Manor</td>\n<td>Sorgin Ashtal</td>\n<td>Cook/Housekeeper</td>\n<td>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.ceAyg3s15pZxay0o]{Sorgin Ashtal}</td>\n</tr>\n<tr>\n<td>18</td>\n<td>Soryn Nelt</td>\n<td>Cottar</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.D2kN0V9iaZ3LfFsm]{[18] Cottar Soryn Nelt}</td>\n</tr>\n<tr>\n<td>14</td>\n<td>Synë Arsarl</td>\n<td>Half-Villein (Reeve)</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.iu6jgJJTrU63N7V7]{[14] Half-Villein (Reeve) Synë Arsarl}</td>\n</tr>\n<tr>\n<td>21</td>\n<td>Tarast Nelt</td>\n<td>Half-Villein</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.tjmBHgJeTNPHTl6Q]{[21] Half-Villein Tarast Nelt}</td>\n</tr>\n<tr>\n<td>11</td>\n<td>Thirsen Arsarl</td>\n<td>Villein</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.a4T0zLPcqfF6ew2J]{[11] Villein Thirsen Arsarl}</td>\n</tr>\n<tr>\n<td>16</td>\n<td>Torn Tolonan</td>\n<td>Half-Villein</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.XqkkaiD5lF9A0ARQ]{[16] Half-Villein Torn Tolonan}</td>\n</tr>\n<tr>\n<td>15</td>\n<td>Udar Panda</td>\n<td>Cottar</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.BVl9a17Z0LXgXYfQ]{[15] Cottar Udar Panda}</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Vakkel Arsarl</td>\n<td>Villein</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.BkjA2WzBD00pxKsI]{[7] Villein Vakkel Arsarl}</td>\n</tr>\n<tr>\n<td>Manor</td>\n<td>Varancë Arsarl</td>\n<td>Domestic</td>\n<td>@UUID[JournalEntry.kvdnuKiCbAHMoHKD.JournalEntryPage.YIDhwilfvAMjEvXf]{Varancë Arsarl}</td>\n</tr>\n<tr>\n<td>17</td>\n<td>Zorna Arsarl</td>\n<td>Half-Villein</td>\n<td>@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.7Z94827YqCj0QFc6]{[17] Half-Villein Zorna Arsarl}</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "DJ0zSMJzoopELNTP",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!AdouKOtgxOUvNCBR.DJ0zSMJzoopELNTP"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206000607,
+    "modifiedTime": 1659206000607,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "AdouKOtgxOUvNCBR",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!AdouKOtgxOUvNCBR"
+}

@@ -1,0 +1,292 @@
+{
+  "name": "Manor Residents",
+  "pages": [
+    {
+      "name": "Beldis Banadar",
+      "type": "text",
+      "text": {
+        "content": "<p>Beldis (male, 17) is a fair-spoken young man with an interest in history. He is a slightly built, attractive young man who would rather read a book than tilt at a quintain. While not weak, he is not a loud mouth bully like Sir Taerq. His key goal is to do good and this provides Sir Taerq with endless baiting fun. His family is from Bidow, where they are clerks and warders of the Shire Moot court. Beldis is in a difficult spot since Sir Flastran doesn’t care about chivalric pursuits and the rest of the Haunty family ignores him. He has become friends with Loran and is entertaining the idea of becoming a herald. His family wants him to become a knight in the Baron’s household, marry a landed girl, and raise the family back to being landowners. A tall order indeed.</p>",
+        "format": 1
+      },
+      "_id": "rPDUgheGElvdBByf",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kvdnuKiCbAHMoHKD.rPDUgheGElvdBByf"
+    },
+    {
+      "name": "Haes Loyril",
+      "type": "text",
+      "text": {
+        "content": "<p>The Alewife (female, 36) is fascinated with Sir Falstran but she has trouble convincing herself that all the fuss over the mead is worth it. In addition to helping the lord with his hobby (as she sees it), she also brews the ale for the manor house. Her husband, Aerlan Loyril (male, 44), assists her and is also the manor’s baker.</p>",
+        "format": 1
+      },
+      "_id": "vIzCSFeyCciZjqCX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kvdnuKiCbAHMoHKD.vIzCSFeyCciZjqCX"
+    },
+    {
+      "name": "Lady Erlyna Haunty",
+      "type": "text",
+      "text": {
+        "content": "<p>Lady Erlyna Haunty, nee Sarebor, is 43 years old but still as svelte as she was when she was 20. Her elfin features belie a hidden strength. Her marriage to Sir Falstran is her second. Her first husband died in 694, leaving her a 17-year old widow. Lady Erlyna works hard to stave off Ominstru’s creditors but knows better than to suggest that her husband sell any of his meads.</p>",
+        "format": 1
+      },
+      "_id": "sDWlo3fGLjhDWu0x",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kvdnuKiCbAHMoHKD.sDWlo3fGLjhDWu0x"
+    },
+    {
+      "name": "Lady Lorlyn Sarebor",
+      "type": "text",
+      "text": {
+        "content": "<p>Lady Lorlyn is an older version of her daughter. At 58, she carries herself with the sprightly energy of a youth. She despairs over her son-in-law’s preoccupation with mead making and is determined to help her daughter stop the downward slide of the manor’s fortunes. While Lady Erlyna is hesitant to sell her husband’s mead, Lady Lorlyn has been making discrete inquiries about how to sell some of the older barrels to pay off the creditors.</p>",
+        "format": 1
+      },
+      "_id": "RlNO6DIvNbXbbImH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kvdnuKiCbAHMoHKD.RlNO6DIvNbXbbImH"
+    },
+    {
+      "name": "Naben Dyren",
+      "type": "text",
+      "text": {
+        "content": "<p>Naben is a teenager that works in the kitchen. She is not aware of Varancë's deeds.</p>",
+        "format": 1
+      },
+      "_id": "Pnxa1YP9C4i0iwil",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kvdnuKiCbAHMoHKD.Pnxa1YP9C4i0iwil"
+    },
+    {
+      "name": "Saril Panda",
+      "type": "text",
+      "text": {
+        "content": "<p>Saril is a teenager that works in the kitchen. She is not aware of Varancë's deeds.</p>",
+        "format": 1
+      },
+      "_id": "mXjifssAmxQKe6Gs",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kvdnuKiCbAHMoHKD.mXjifssAmxQKe6Gs"
+    },
+    {
+      "name": "Sir Falstran Haunty",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Falstran Haunty is a 41 year old oenophile. Rotund and irrepressibly happy, his life’s focus is in crafting his meads. He does not have any idea how far his family is in debt and is content to let his wife attend to daily matters around the manor. He hasn’t ridden in a hunt for years and avoids most of the usual knightly activities, preferring to work in his brewery.</p>",
+        "format": 1
+      },
+      "_id": "ie8cEsJJ4DPweL0L",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kvdnuKiCbAHMoHKD.ie8cEsJJ4DPweL0L"
+    },
+    {
+      "name": "Sir Taerq Haunty",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Taerq (male, 20) is Sir Falstran's heir. He is arrogant and vindictive, secure in the knowledge that his social class will absolve him of most of his offenses. Taerq is especially offensive toward merchants and moneylenders. He calls them leeches and carrion crows.</p>",
+        "format": 1
+      },
+      "_id": "QZ8wYT1QxiDZ6x1q",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kvdnuKiCbAHMoHKD.QZ8wYT1QxiDZ6x1q"
+    },
+    {
+      "name": "Sorgin Ashtal",
+      "type": "text",
+      "text": {
+        "content": "<p>Sorgin (male, 36) is the cook. He is a committed bachelor, not that any woman would have him. His conversations are littered with profanity, whether he is happy or angry. Some of his more colorful phrases have raised cursing into a vulgar art form.</p>",
+        "format": 1
+      },
+      "_id": "ceAyg3s15pZxay0o",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kvdnuKiCbAHMoHKD.ceAyg3s15pZxay0o"
+    },
+    {
+      "name": "Varancë Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p>Varancë is the beadle’s niece. She was drawn into the risky business of borrowing bows and spears for the men of her clan to use while they patrol the woods. Her uncle has thankfully started buying weapons for the militia but Varancë still smuggles a few bows, spears, or shields from the store room when asked.</p>",
+        "format": 1
+      },
+      "_id": "YIDhwilfvAMjEvXf",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!kvdnuKiCbAHMoHKD.YIDhwilfvAMjEvXf"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206000618,
+    "modifiedTime": 1659206000618,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "kvdnuKiCbAHMoHKD",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!kvdnuKiCbAHMoHKD"
+}

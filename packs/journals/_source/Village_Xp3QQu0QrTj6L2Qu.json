@@ -1,0 +1,699 @@
+{
+  "name": "Village",
+  "pages": [
+    {
+      "name": "[1] Yeoman Hrogun Urdel",
+      "type": "text",
+      "text": {
+        "content": "<p>Old man Hrogun has a house full of children. He had hoped to move his eldest boy, Datril, into an empty homestead across the creek (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.646QlDV5xdoMQ4oG]{[10] Scholar Loran the Southron}) when the boy married but Lady Erlyna said that she needed the cash and rented the house to a foreigner. Since all of the manor’s yeomen live under his roof, Hrogun feels slighted. He is now trying to raise money to buy Datril a “piece of wilderness” for the boy to clear for his own farm. He does not hold much respect for Sir Falstran and makes sure that his boys stay indoors at night. Hrogun, a man to carry a grudge, thinks that the lord will give the Urdels the respect they are due only after something bad happens.</p>",
+        "format": 1
+      },
+      "_id": "oXfnvdhn5F90RyKW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.oXfnvdhn5F90RyKW"
+    },
+    {
+      "name": "[2] Villein Margaen Astal",
+      "type": "text",
+      "text": {
+        "content": "<p>Margaen is an innovator. While others in the village complain, he finds opportunities. He and his beautiful wife hire their neighbors to collect walnuts in the forest every autumn. He then presses the nuts to make oil used to flavor foods, which he sells for a handsome profit in Getha. He pays Lady Erlyna one gallon in three for this privilege.</p>\n<p>The real economic masterstroke in his scheme is that he keeps the paste that is left over from the pressing the nutmeat. His wife feeds the paste to their geese, lending a deep nutty flavor to the birds’ flesh and increasing their value as well. His wife employs several of the village women to help her pot meat and liver pastes, all of which are highly prized in the markets of Tashal.</p>",
+        "format": 1
+      },
+      "_id": "ZwiwrHh5YV3OSP1v",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.ZwiwrHh5YV3OSP1v"
+    },
+    {
+      "name": "[3] Half-Villein Lirana Panda",
+      "type": "text",
+      "text": {
+        "content": "<p>Although she is still a young woman, Lirana has four mouths to feed. Her husband is often away working his trap line in the forest, so she looks after the children and tends the fields by herself. Late last winter, she saw the bandits as they were withdrawing from the village with their loot. Since it was a full moon, she can give a good description of the bandit leader if pressed but has thus far kept this information secret for fear that the bandits might take revenge on her husband.</p>",
+        "format": 1
+      },
+      "_id": "Zfar6Y2cPlqFqWo7",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.Zfar6Y2cPlqFqWo7"
+    },
+    {
+      "name": "[4] Cottar Cherin Faleren",
+      "type": "text",
+      "text": {
+        "content": "<p>Cherin holds the dubious distinction of being the fattest person in the village. The old woman is incredibly superstitious and waddles around muttering to herself while she fingers the many charms that are tied to her person. Her daughter disappeared two years ago while watching the cows in their pasture. Cherin thinks the girl was taken by demons but the rest of her family think she is a dotty old lady and the child ran away with bandits.</p>",
+        "format": 1
+      },
+      "_id": "5ZeT23yAA4qtxn1V",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.5ZeT23yAA4qtxn1V"
+    },
+    {
+      "name": "[5] Cottar (woodward) Maunat Faleren",
+      "type": "text",
+      "text": {
+        "content": "<p>Maunat is the village beekeeper and sometime brewing assistant to Sir Falstran. He is completely loyal to Sir Falstran and admires how the lord makes his meads. Maunat is in charge of collecting the raw materials. In addition to taking the pots of honey to the manor brew house, he makes sure that the beeswax is properly processed and packaged for shipment.</p>",
+        "format": 1
+      },
+      "_id": "cAE5qSEXiYHpNxuv",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.cAE5qSEXiYHpNxuv"
+    },
+    {
+      "name": "[6] Cottar (Herder) Shorka Faleren",
+      "type": "text",
+      "text": {
+        "content": "<p>In charge of the village’s herd of dairy cattle, Shorka pushes her neighbors harder than she does the cattle. She employs almost all of the children in the village to mind the herd as it grazes in the pasture and makes sure that everyone grazes their cow in the correct field. The older children help gather and store fodder for the winter in the manor’s barn (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.ROkVoJpZmOw8s556]{[6a] Manor Barn}). Although she has not been gifted with a great amount of intelligence, this tall, skinny woman seems to understand her charges and is able to get the cows to yield a good amount of sweet creamy milk.</p>",
+        "format": 1
+      },
+      "_id": "AHfsjWHHEJUl1rIA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.AHfsjWHHEJUl1rIA"
+    },
+    {
+      "name": "[7] Villein Vakkel Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p>Vakkel’s chief concern in life is his family. His farm is productive, his six children are healthy, and he is very protective of both. Last winter, his uncle (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.iu6jgJJTrU63N7V7]{[14] Half-Villein (Reeve) Synë Arsarl}) came to him with a proposition. Synë said that the family needed him to train as a warrior and become part of the village’s militia. Vakkel volunteered without hesitation, even though he knew that bearing arms was against the law. Now Vakkel trains in the use of bow and spear with his cousins in the forest. Every third day he helps patrol the woods south of the village for bandits and predatory animals.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "BkjA2WzBD00pxKsI",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.BkjA2WzBD00pxKsI"
+    },
+    {
+      "name": "[8] Villein Roran Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p>Everyone calls her “Little Roran” but this tall, good looking woman takes the teasing in stride. She and her husband Gosrin have volunteered for the reeve’s secret militia and both are natural spear fighters. Her husband claims they are destined to become yeomen but Roran would be satisfied to avoid being hanged for owning the spear that is hidden in her eaves.</p>\n<p>When she is not training or patrolling, she wanders the woods looking for truffles. She has a trained pig, fitted with a specially made muzzle that keeps “Spot” from eating the delicacies that his snout discovers.</p>",
+        "format": 1
+      },
+      "_id": "eGsjDYjml9fpyG3V",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.eGsjDYjml9fpyG3V"
+    },
+    {
+      "name": "[9] Cottar Habar Asaka",
+      "type": "text",
+      "text": {
+        "content": "<p>Habar works hard to feed his wife and six children. A short, stout man, he is one of the best plowmen in the village. When he has time, he helps farm Margean’s fields (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.ZwiwrHh5YV3OSP1v]{[2] Villein Margaen Astal}). Although the life of a cottar is not easy, he is a good father and does his best for the family. Last year his eldest daughter, Birgita, disappeared in the forest. He does not believe the girl ran away and would give anything to know what happened to her.</p>",
+        "format": 1
+      },
+      "_id": "1pE9uweWREBNpKCN",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.1pE9uweWREBNpKCN"
+    },
+    {
+      "name": "[10] Scholar Loran the Southron",
+      "type": "text",
+      "text": {
+        "content": "<p>Loran the Southron lives quietly in an old farmhouse he leases from Sir Falstran. Originally from Melderyn, he is amused that the villagers call him a Southron because he is a foreigner from the south. Loran allows locals to think he is an eccentric nobleman pursuing his hobby of poking around old ruins. He won’t tell anyone what he is looking for but often pays villagers to tell him about things they’ve seen in the deep forest.</p>\n<p>He is, in fact, a Save K’norran scholar whose specialty is pre-Kaldoric religious history. He ha spent the last 12 years studying the history and relics of six minor Laranian saints from ancient Serelind. Loran has researched the subject extensively and thinks that he has located the home of one of the saints. Now, he looks for adventurous people to help investigate the ruins. Obsessed with history and iconography, Loran views the forest bandits as environmental hazards, much like wolves and other wildlife. He would only get concerned if he thought that the bandits might steal something from the ruins that would hinder his studies.</p>\n<p>Loran is a slight man of medium build. He can be fawning and unctuous when he wants something but arrogant and demanding when he feels that he is in a superior position. He is balding with long strands of graying yellow hair. He has a bushy, untrimmed, beard and is constantly sucking on the ends of his mustache, making him difficult to understand at times.</p>\n<p>Loran’s bodyguard, Kiren of Gofayet, is a mercenary Loran hired in Cherafir. The other servants call him “Master Kiren” and are scared to death of the hulking, scarred man. While Loran’s nose is usually in a book or old scroll, Kiren keep his eyes and ears open. He guards against the bandits and has an idea of the identity of the highwaymen but, as long as they leave his master alone, he keeps his peace.</p>\n<p>The cook is Pella Faleren. Her husband Iran and their sons Kiran and Kerlyn work in the kitchens. The groom, Mosa Faleren, is their cousin and sleeps in the stable. None of the domestic staff know their master’s real identity. As long as they avoid his pet peeves of talking while he is eating and stay away from his private study, they have found him an easy man to work for.</p>",
+        "format": 1
+      },
+      "_id": "646QlDV5xdoMQ4oG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.646QlDV5xdoMQ4oG"
+    },
+    {
+      "name": "[11] Villein Thirsen Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p>Thirsen grew up thinking that he would be enjoying a warm hearth and foaming mugs of ale as he approached middle age. Instead he is creeping around the woods at night looking for bandits. He is a good spearman but cannot hit anything with an arrow, no matter how much he practices. More disturbingly, Thirsen is sloppy and occasionally leaves his weapons in his house where they can be seen. Only his wife’s diligence has kept anyone from discovering his bow or spear and exposing the secret of the Arsarls.</p>",
+        "format": 1
+      },
+      "_id": "a4T0zLPcqfF6ew2J",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.a4T0zLPcqfF6ew2J"
+    },
+    {
+      "name": "[12] Salter Ketta Andin",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 4 | <strong>Quality:</strong> ★★★ | <strong>Prices:</strong> Average</p>\n<p><strong>Sign:</strong> Cow's Head</p>\n<p>Ketta spends his day making cheese and smoking meat. He views himself as a food artist. He works closely with Shorka Faleren (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.AHfsjWHHEJUl1rIA]{[6] Cottar (Herder) Shorka Faleren}) to get the best raw materials possible. He hires many of the villagers to help him with his work and is a strict taskmaster. His wife badgers him about getting fat, so he attends militia practice with the Urdels (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.oXfnvdhn5F90RyKW]{[1] Yeoman Hrogun Urdel}) at mid-morning.</p>\n<p>The Cow’s Head’s specialty is a white, firm cheese called gistina. This is a cheese made in autumn, after the fields produce their second crop. He also makes rella, which is a type of gistina that has been exposed to a special mold. Finally, like the other salters in the area, Ketta uses from the whey drained off during the production of other cheeses like rella and gistina to make ristina (another firm, tangy cheese). Much of the cuisine of the western part of the hundred uses ristina but it is a young cheese and does not travel well enough to send to the Tashal market.</p>\n<p>Ketta relies heavily on his cousin’s salt works in Sezaze to provide him with the mineral he needs to make the cheeses. Before the salt works started producing, he had to purchase salt from merchants in Gardiren. This cost, plus the expense of transporting the salt, left him with little profit. Now his profit has increased five-fold. Later this year, he is sending his eldest son, Gilmar (age 9) to Sezaze to apprentice with his cousin Forsta.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "c3ooAbsJ16Az77nc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.c3ooAbsJ16Az77nc"
+    },
+    {
+      "name": "[13] Half-Villein (Beadle) Kan Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p>Kan is the leader of the secret Arsarl militia. He swells with pride whenever he thinks of the way his kin have supported him in his duty to protect the village. He drills his troops hard, in small clearing at the end of western fields. He spends many early mornings practicing with spear or short bow. Some secret militia members have become reasonably proficient with their weapons and Kan has started to think that they could protect themselves without the help of fat old Falstran and his bullying boy Taerq.</p>",
+        "format": 1
+      },
+      "_id": "Pz2dWMUGB7lN3fCc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.Pz2dWMUGB7lN3fCc"
+    },
+    {
+      "name": "[14] Half-Villein (Reeve) Synë Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p>As reeve, Synë is responsible for organizing and arming the peasants of the village. She took a grave risk when she used her position to steal weapons from the manor house to arm a secret militia formed from members of her clan. Thieves and small groups of bandits had raided the manor in the past but she only considered this drastic step after her favorite aunt, Aldlë (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.wN54VGKWpcFxxLRk]{[22] Cottar Aldlë Arsarl}), was injured by outlaws.</p>\n<p>Fearing discovery, Synë no longer takes weapons from the manor's armory but has been buying arms from her cousin Solvena [Hyzevel #41]. Most of the clan's cash has gone toward buying spears, bows, and arrows for the secret militia. Now almost impoverished, Synë has started \"taxing\" the manor's revenues to fund her arms purchases and, eventually, to acquire quilted and leather armor for the secret militia.</p>\n<p>The weapons are smuggled from Hyzevel by Solvena’s sons. Linla Arsarl’s boys [Hyzevel #38] carry messages from Aunt Solvena when a shipment is ready. The Hyzevel cousins bring the mule load of weapons’ parts under the guise of bringing material to their Aunt Aldlë (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.wN54VGKWpcFxxLRk]{[22] Cottar Aldlë Arsarl}). Other weapons are brought into the village under guise of trapping equipment.</p>",
+        "format": 1
+      },
+      "_id": "iu6jgJJTrU63N7V7",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.iu6jgJJTrU63N7V7"
+    },
+    {
+      "name": "[15] Cottar Udar Panda",
+      "type": "text",
+      "text": {
+        "content": "<p>On the outside, Udar is an attractive, intelligent man. He is reserved but neighbors generally like the tall, well-built man. His four children are quiet and respectful, often helping during the worship services.</p>\n<p>Inside, Udar hears voices that demand things from him and when he gives into them, he must kill. The voices come to him at the end of harvest, usually in the first ten-day of Agrazhar. In his dementia, he wanders around the woods north of the village looking for a victim. Two years ago, he strangled Cherin Faleren’s daughter (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.ZwiwrHh5YV3OSP1v]{[2] Villein Margaen Astal}) with his bare hands. Last year, he garroted Birgita Asaka (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.1pE9uweWREBNpKCN]{[9] Cottar Habar Asaka}).</p>",
+        "format": 1
+      },
+      "_id": "BVl9a17Z0LXgXYfQ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.BVl9a17Z0LXgXYfQ"
+    },
+    {
+      "name": "[16] Half-Villein Torn Tolonan",
+      "type": "text",
+      "text": {
+        "content": "<p>Torn is a short, miserly man. As broad as he is tall, he dislikes working in the fields but he also dislikes paying others to do the work for him. Few of the villagers enjoy working for him because, no matter the job or the pay, people walk away feeling cheated. Torn likes to watch his six children chase his wife’s ducks.</p>",
+        "format": 1
+      },
+      "_id": "XqkkaiD5lF9A0ARQ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.XqkkaiD5lF9A0ARQ"
+    },
+    {
+      "name": "[17] Half-Villein Zorna Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p>A member of the Arsarl militia, Zorna is an expert bowman. He leads one of the clan’s three man nightly patrols every third night. He has poached in the woods long enough to be the militia's tracker. He enjoys the patrols, especially since he usually ends the night by carrying home a hare or even a young deer.</p>",
+        "format": 1
+      },
+      "_id": "7Z94827YqCj0QFc6",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.7Z94827YqCj0QFc6"
+    },
+    {
+      "name": "[18] Cottar Soryn Nelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Soryn works long, hard days as a trapper and is worryied about bandits. He is envious of his cousins’ sudden wealth. Realizing that Tarast (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.tjmBHgJeTNPHTl6Q]{[21] Half-Villein Tarast Nelt}) is the smarter of the two, he concentrates on Darbain’s (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.19bo6UOuMAdapD2M]{[23] Half-Villein Darbain Nelt}) boasting and divined that they have moved from poaching to banditry. He has not yet figured out if Tarast and Darbain are part of a bandit group or are working on their own.</p>",
+        "format": 1
+      },
+      "_id": "D2kN0V9iaZ3LfFsm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.D2kN0V9iaZ3LfFsm"
+    },
+    {
+      "name": "[19] Cottar Ardin Loyril",
+      "type": "text",
+      "text": {
+        "content": "<p>Aside from being an adequate farmer and a good neighbor, Ardin is a natural performer. He can sing, juggle, and perform comical skits. He uses these talents to earn money and food entertaining in the Great Hall.</p>",
+        "format": 1
+      },
+      "_id": "ejiBmiqw9NLcdUuu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.ejiBmiqw9NLcdUuu"
+    },
+    {
+      "name": "[20] Cottar Bathil Loyril",
+      "type": "text",
+      "text": {
+        "content": "<p>Until last fall, Bathil was the village teamster. He drove the village’s goods to Getha and Jenkald in his ox-drawn wagon. The journey was uncomfortable when it rained but he would console himself that walking was better than farming. His attitude changed as he was returning from Jenkald last fall. Three highwaymen fell upon him and tried to take his wagon. When he defended himself with his stave, their leader slashed him with a sword. The bandits left him for dead in the forest but hunters from Drilen found him and saved his life. The hunters found his looted wagon and oxen in a copse of woods belonging to Sir Tommas Kobarney but Sir Falstran decided not to press the issue and accepted Sir Tommas’ explanation of the matter.</p>",
+        "format": 1
+      },
+      "_id": "dyZ1hn0W0jVnPuPt",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.dyZ1hn0W0jVnPuPt"
+    },
+    {
+      "name": "[21] Half-Villein Tarast Nelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Tarast thinks that he is the luckiest man in the world. Six months ago he was preparing himself to lose a hand after being caught poaching. Two nights before the sentence was to be carried out, Sir Taerq stood over him and offered a bargain. Tarast could not believe that the heir of the manor was offering to pardon him and gave him a job that was not that different from poaching.</p>\n<p>Over the last few months, he has helped Sir Taerq rob travelers and pilgrims. Tarast and Darbain grab the purses while Taerq brandishes his sword. In all, they have made a pretty penny from being highwaymen. Sir Taerq has promised to make Tarast and his cousin Darbain (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.19bo6UOuMAdapD2M]{[23] Half-Villein Darbain Nelt}) yeomen once he becomes lord of the manor.</p>",
+        "format": 1
+      },
+      "_id": "tjmBHgJeTNPHTl6Q",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.tjmBHgJeTNPHTl6Q"
+    },
+    {
+      "name": "[22] Cottar Aldlë Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p>Aldlë is getting on in years so, when bandits broke into her house and tried to steal her cow, they probably did not expect much of a fight. The little old lady flew at them like a demon, however. She saved her cow but ended up with a cracked skull. Her family nursed her back to health and she is back in the fields with only some blurry vision and a ringing in her ears to show for her adventure.</p>\n<p>Her two sons are grown and patrol the village perimeter together. The patrols stay close to the village and the Arsarls are rough with anyone they find in the forest at night.</p>",
+        "format": 1
+      },
+      "_id": "wN54VGKWpcFxxLRk",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.wN54VGKWpcFxxLRk"
+    },
+    {
+      "name": "[23] Half-Villein Darbain Nelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Darbain’s cousins (@UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.D2kN0V9iaZ3LfFsm]{[18] Cottar Soryn Nelt} and @UUID[JournalEntry.Xp3QQu0QrTj6L2Qu.JournalEntryPage.tjmBHgJeTNPHTl6Q]{[21] Half-Villein Tarast Nelt}) tell him that he looks like a rat with mange. Darbain, whose intelligence is overshadowed by any sort of rat, thinks that this is a complement to his tenacious nature. He is part of Sir Taerq’s band of robbers and is quite pleased with the added income. Darbain likes to drink and when he drinks, he likes to talk. Tarast has had to stifle his drunken stories on more than one occasion. Recently, however, Sir Taerq heard one of Darbain’s boasts and now the little man’s days are numbered.</p>",
+        "format": 1
+      },
+      "_id": "19bo6UOuMAdapD2M",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.19bo6UOuMAdapD2M"
+    },
+    {
+      "name": "[24] Hideworker Katrin Astal",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 3 | <strong>Quality:</strong> ★★★★ | <strong>Prices:</strong> Average</p>\n<p>The local hideworker is a tall, thin man. His neighbors think he is furtive but he is just uncomfortable around people. Katrin leases traps and other equipment to several of the serf families. These peasants, mostly from the Arsarl clan, run trap lines and pit traps in the forests around the village. They lease the equipment and then sell him the unfinished pelts at the end of the season, keeping the profit.</p>\n<p>Katrin is unaware that the Arsarls do more than trap animals in the forests. If he were ever to discover that his trappers were smuggling weapons or acting as an illegal militia, he would leave the Shire rather than face the court.</p>\n<p>He hopes this year’s pelts will give him enough cash to buy a large cauldron to make kurbul. He has convinced Lady Erlyna that the manor’s beeswax can make armor locally at a better profit than sending the wax away to be made into candles and salves.</p>",
+        "format": 1
+      },
+      "_id": "9QojhaeQwM2LCqd0",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.9QojhaeQwM2LCqd0"
+    },
+    {
+      "name": "[6a] Manor Barn",
+      "type": "text",
+      "text": {
+        "content": "<p> </p>",
+        "format": 1
+      },
+      "_id": "ROkVoJpZmOw8s556",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Xp3QQu0QrTj6L2Qu.ROkVoJpZmOw8s556"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659206000614,
+    "modifiedTime": 1659206000614,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "Xp3QQu0QrTj6L2Qu",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!Xp3QQu0QrTj6L2Qu"
+}
