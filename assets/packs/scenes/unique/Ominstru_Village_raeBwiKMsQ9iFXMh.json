@@ -1006,7 +1006,7 @@
     }
   },
   "background": {
-    "src": "modules/hm-loc-ominstru/assets/scenes/ominstru-village.png",
+    "src": "modules/hm-loc-ominstru/assets/scenes/ominstru-village.webp",
     "offsetX": 0,
     "offsetY": 0,
     "scaleX": 1,
